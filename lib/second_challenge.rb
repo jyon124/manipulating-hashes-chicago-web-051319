@@ -10,7 +10,7 @@ def second_challenge
 
   groceries.each do |foods, values|
     values.each do |kinds|
-      puts "#{kinds}"
+      return "#{kinds}"
     end
 end
 groceries
