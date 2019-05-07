@@ -12,4 +12,5 @@ def second_challenge
       puts "#{kinds}"
     end
 end
+return kinds
 end
