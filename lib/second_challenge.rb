@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-  
+
   groceries.each do |foods, values|
     values.each do |kinds|
       puts "#{kinds}"
