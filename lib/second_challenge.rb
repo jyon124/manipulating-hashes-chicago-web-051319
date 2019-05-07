@@ -13,5 +13,5 @@ empty_cart = ""
       empty_cart << "#{kinds}"
     end
 end
-groceries
+empty_cart
 end
