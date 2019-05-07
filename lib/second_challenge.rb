@@ -13,5 +13,5 @@ def second_challenge
       puts "#{kinds}"
     end
 end
-end
 groceries
+end
