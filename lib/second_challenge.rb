@@ -10,7 +10,7 @@ def second_challenge
 empty_cart = ""
   groceries.each do |foods, values|
     values.each do |kinds|
-      empty_cart << "#{kinds}"
+      empty_cart << "#{kinds}, "
     end
 end
 empty_cart
